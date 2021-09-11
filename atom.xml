@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>HH</title>
+  <title></title>
   
   <subtitle>嘿嘿~发现我了</subtitle>
-  <link href="http://ze520.cn/atom.xml" rel="self"/>
+  <link href="http://baidu.com/atom.xml" rel="self"/>
   
-  <link href="http://ze520.cn/"/>
+  <link href="http://baidu.com/"/>
   <updated>2021-07-28T11:01:26.837Z</updated>
-  <id>http://ze520.cn/</id>
+  <id>http://baidu.com/</id>
   
   <author>
-    <name>Xianqi</name>
+    <name>HH</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Markdown快速入门小技巧(hexo博客文章--格式用法)</title>
-    <link href="http://ze520.cn/posts/15546.html"/>
-    <id>http://ze520.cn/posts/15546.html</id>
+    <link href="http://baidu.com/posts/15546.html"/>
+    <id>http://baidu.com/posts/15546.html</id>
     <published>2021-06-21T08:00:00.000Z</published>
     <updated>2021-07-28T11:01:26.837Z</updated>
     
@@ -34,14 +34,14 @@
     
     
     
-    <category term="hexo博客" scheme="http://ze520.cn/categories/hexo%E5%8D%9A%E5%AE%A2/"/>
+    <category term="hexo博客" scheme="http://baidu.com/categories/hexo%E5%8D%9A%E5%AE%A2/"/>
     
-    <category term="Markdown" scheme="http://ze520.cn/categories/hexo%E5%8D%9A%E5%AE%A2/Markdown/"/>
+    <category term="Markdown" scheme="http://baidu.com/categories/hexo%E5%8D%9A%E5%AE%A2/Markdown/"/>
     
     
-    <category term="hexo博客" scheme="http://ze520.cn/tags/hexo%E5%8D%9A%E5%AE%A2/"/>
+    <category term="hexo博客" scheme="http://baidu.com/tags/hexo%E5%8D%9A%E5%AE%A2/"/>
     
-    <category term="Markdown" scheme="http://ze520.cn/tags/Markdown/"/>
+    <category term="Markdown" scheme="http://baidu.com/tags/Markdown/"/>
     
   </entry>
   
