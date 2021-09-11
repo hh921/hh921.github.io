@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://baidu.com/about/index.html</loc>
+    
+    <lastmod>2021-09-11</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://baidu.com/List/gallery/index.html</loc>
     
     <lastmod>2021-08-14</lastmod>
@@ -26,13 +33,6 @@
     <loc>http://baidu.com/List/gallery/ohmygirl/index.html</loc>
     
     <lastmod>2021-08-13</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://baidu.com/about/index.html</loc>
-    
-    <lastmod>2021-08-02</lastmod>
     
   </url>
   
